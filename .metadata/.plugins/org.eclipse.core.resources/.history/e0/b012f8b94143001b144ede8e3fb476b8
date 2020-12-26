@@ -1,0 +1,7 @@
+package Com.app;
+
+public class Test {
+	TwoBHK Flat1 = new TwoBHK(10.2f,20.5f,1000000,10);
+	
+
+}
